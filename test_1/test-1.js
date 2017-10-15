@@ -1,4 +1,4 @@
-// Kata #1
+// Test #1
 // Dentro del objeto "this" no pertenece a obj
 // actualiza la función para que salte el alert correspondiente
 
@@ -12,4 +12,4 @@ var obj = {
   }
 }
 
-document.getElementsByTagName('button')[0].addEventListener('click', obj.renderElement)
+document.getElementById('btn').addEventListener('click', obj.onClick)
