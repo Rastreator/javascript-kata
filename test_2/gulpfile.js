@@ -1,7 +1,7 @@
 // Comprimir imágenes
 // Las imágenes a comprimir están dentro de la carpeta src
 // se deben de enviar comprimidas a dist
-// en la carpeta dist se debe respetar la estructura de directorios de src
+// En la carpeta dist se debe respetar la estructura de directorios de src
 // Tienes vía libre para utilizar la librería que más te guste
 
 var gulp = require('gulp')
