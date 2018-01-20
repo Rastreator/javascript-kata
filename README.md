@@ -19,3 +19,4 @@ Valoraremos:
 - El uso adecuado de clases y pseudo elementos CSS
 - El conocimiento de Stylus, si crees que puedes reducir código usando funciones, hazlo :)
 - El uso (siempre que sea posible) de elementos HTML5
+- CSS Puro, si no usas JS, mejor que mejor
